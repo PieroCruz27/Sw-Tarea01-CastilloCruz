@@ -28,7 +28,7 @@ private final Integer PORT = 13;
 			}
 			
 			
-			//DSD
+			
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (Exception e) {
